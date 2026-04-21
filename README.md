@@ -1,4 +1,5 @@
 # Uber-Data-Analysis-Dashboard
+Project Title: Uber-Data-Analysis-Dashboard
 
 Short Discription:
 This Power BI project presents a comprehensive analysis of Uber ride data through multiple interactive dashboards. The report provides insights into ride performance, revenue trends, customer behavior, vehicle distribution, and location-based analytics. It helps in understanding key business metrics such as bookings, cancellations, revenue generation, and customer preferences.
